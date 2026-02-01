@@ -15,9 +15,10 @@ How do federal policy changes shape local and binational capacity to address cro
 
 ## Selected outputs
 - **Project overview + literature review framework**: [/docs/trels_project_overview_litreview.pdf](docs/trels_project_overview_litreview.pdf)
-- **Policy analysis article #1**: [/docs/policy_article_1.pdf](docs/policy_article_1.pdf)
+- **Policy analysis article #1**: [/docs/policy_article_1.pdf](trels_policy_article_eo14241.pdf)
 - **Policy analysis article #2**: [/docs/policy_article_2.pdf](trels_policy_article_eo14260.pdf)
-- **Executive brief (2 pages)** (optional, recommended): [/docs/trels_executive_brief.pdf](docs/trels_executive_brief.pdf)
+- **Annotated Bibliography**: [/docs/trels_annotated_bibliography.pdf](docs/trels_annotated_bibliography.pdf)
+- **Zine**: [/docs/trels_zine.pdf](docs/trels_zine.pdf)
 
 <details>
 <summary><strong>Planned next outputs</strong></summary>
