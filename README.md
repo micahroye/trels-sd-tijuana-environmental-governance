@@ -1,5 +1,32 @@
-# trels-sd-tijuana-environmental-governance
-Multi-method research on environmental governance and climate resilience in the San Diego–Tijuana bioregion. Policy analysis, literature synthesis, stakeholder framing, and public-facing writing on how federal environmental shifts affect local capacity and implementation pathways.
+# TRELS — Environmental Governance & Climate Resilience in the San Diego–Tijuana Bioregion
+
+## Summary
+Multi-method research project examining how shifts in U.S. environmental and border-related policy affect stakeholder capacity for climate resilience and environmental justice in the San Diego–Tijuana bioregion.
+
+## Core question
+How do federal policy changes shape local and binational capacity to address cross-border environmental crises and climate adaptation challenges?
+
+## Methods
+- Policy and document analysis (federal/state/local; implementation constraints)
+- Literature synthesis and thematic review
+- Stakeholder framing and interview planning (semi-structured; ongoing)
+- Public-facing writing and synthesis outputs (articles/brief-style deliverables)
+- Planned mapping/visualization of stakeholder and impact dynamics
+
+## Selected outputs
+- **Project overview + literature review framework**: [/docs/trels_project_overview_litreview.pdf](docs/trels_project_overview_litreview.pdf)
+- **Policy analysis article #1**: [/docs/policy_article_1.pdf](docs/policy_article_1.pdf)
+- **Policy analysis article #2**: [/docs/policy_article_2.pdf](docs/policy_article_2.pdf)
+- **Executive brief (2 pages)** (optional, recommended): [/docs/trels_executive_brief.pdf](docs/trels_executive_brief.pdf)
+
+<details>
+<summary><strong>Planned next outputs</strong></summary>
+
+- Stakeholder interview series with agencies, NGOs, scientists/academics, and community organizations  
+- Synthesized findings memo oriented to implementation pathways  
+- Visual artifacts (stakeholder map, policy timeline, and/or mapping layers)
+
+
 
 /docs/
     trels_project_overview_litreview.pdf
