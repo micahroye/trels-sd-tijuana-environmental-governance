@@ -16,7 +16,7 @@ How do federal policy changes shape local and binational capacity to address cro
 ## Selected outputs
 - **Project overview + literature review framework**: [/docs/trels_project_overview_litreview.pdf](docs/trels_project_overview_litreview.pdf)
 - **Policy analysis article #1**: [/docs/policy_article_1.pdf](docs/policy_article_1.pdf)
-- **Policy analysis article #2**: [/docs/policy_article_2.pdf](docs/policy_article_2.pdf)
+- **Policy analysis article #2**: [/docs/policy_article_2.pdf](trels_policy_article_eo14260.pdf)
 - **Executive brief (2 pages)** (optional, recommended): [/docs/trels_executive_brief.pdf](docs/trels_executive_brief.pdf)
 
 <details>
@@ -26,10 +26,3 @@ How do federal policy changes shape local and binational capacity to address cro
 - Synthesized findings memo oriented to implementation pathways  
 - Visual artifacts (stakeholder map, policy timeline, and/or mapping layers)
 
-
-
-/docs/
-    trels_project_overview_litreview.pdf
-    trels_executive_brief.pdf
-    policy_article_1.pdf
-    policy_article_2.pdf
